@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/elegant-dress-shop-173591-173607/shop_frontend"
+}
